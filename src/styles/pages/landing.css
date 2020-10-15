@@ -1,7 +1,7 @@
 #page-landing {
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(329.54deg, #29b6d1, #00c7c7, 100%);
+  background: linear-gradient(329.54deg, #15b6d6 0%, #15d6d6 100%);
 
   display: flex;
   align-items: center;
